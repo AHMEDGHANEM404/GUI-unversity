@@ -1,4 +1,4 @@
-# control-unversity
+# Gui-unversity
 Unversity GUI project  control
 -----------------------------------------------------------
 *dependances :
